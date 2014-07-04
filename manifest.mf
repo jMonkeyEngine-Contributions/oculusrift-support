@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.mindemia.plugins.jme.oculusrift/1
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: com/mindemia/plugins/jme/oculusrift/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/mindemia/plugins/jme/oculusrift/Bundle.properties
+
